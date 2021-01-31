@@ -1,0 +1,77 @@
+
+body
+{
+
+	background-color: cadetblue;
+	
+}
+.title {
+	
+	background-color: rgb(196, 171, 31);
+	height: 50px;
+	padding: 10px;
+	border: 6px solid rgb(17, 19, 19);
+	text-align: center;
+	
+	
+  }
+
+
+ #conteneur
+  {
+	  display: flex;
+	  flex-direction:row;
+	  justify-content:space-between;
+	  align-content: stretch;
+	  
+  }
+  .element{
+	text-align: center;
+	background-color: cadetblue
+	width: 200px;
+	height: 200px;
+	border: 5px outset orange
+	padding: 5em;
+	
+	}	  
+a {
+	
+		color: rgb(255, 255, 255);
+		padding: 8px 16px;
+		text-decoration: none;
+	  }
+	  
+	  a {
+		background-color: rgb(110, 25, 25);
+		color: white;
+	  }
+table {
+		  align-self: center;
+		border-collapse: collapse;
+		width: 100%;
+	  }
+th {
+		background-color: #4CAF50;
+		color: white;
+	  }
+ th, td {
+		text-align: center;
+		padding: 8px;
+	  }
+
+p {
+			text-decoration: underline;
+			font-size: large;
+			}
+img {
+				display: inline-block;
+				max-width: 98%;
+				height: auto;
+				width: 30%;
+				margin: 1%;
+				border: darkblue;
+			}
+
+
+			
+				
